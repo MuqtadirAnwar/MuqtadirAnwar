@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I’m Muqtadir Anwar, a passionate Data Scientist and aspiring Data Analyst with a focus on using data-driven insights to solve business problems. Currently working on projects like Customer Churn Prediction, I aim to leverage my skills in SQL, Python, and machine learning to drive impactful decisions.
+**I’m Muqtadir Anwar,** a passionate Data Scientist and aspiring Data Analyst with a focus on using data-driven insights to solve business problems. Currently working on projects like Customer Churn Prediction, I aim to leverage my skills in SQL, Python, and machine learning to drive impactful decisions.
 
 
 <!--
