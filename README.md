@@ -4,6 +4,7 @@
 **MuqtadirAnwar/MuqtadirAnwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+👋 Hi, I’m Muqtadir Anwar, a passionate Data Scientist and aspiring Data Analyst with a focus on using data-driven insights to solve business problems. Currently working on projects like Customer Churn Prediction, I aim to leverage my skills in SQL, Python, and machine learning to drive impactful decisions.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
