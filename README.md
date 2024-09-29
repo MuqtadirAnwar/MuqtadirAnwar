@@ -61,7 +61,7 @@
 
 
 ## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon](https://github.com/MuqtadirAnwar/customer-churn-prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuqtadirAnwar&repo=customer-churn-prediction&theme=onedark" />
 </a>  
