@@ -67,7 +67,7 @@
 </a>  
 
 
-<a href="https://github.com/aastha12/Loan_Prediction">
+<a href="https://github.com/MuqtadirAnwar/spy-prediction-model">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuqtadirAnwar&repo=spy-prediction-model&theme=onedark" />
 </a> 
